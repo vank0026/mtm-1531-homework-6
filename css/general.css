@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+	background-color:#666;
+}
+
+body{
+	background-color: #000;
+	font-family: Verdana, Geneva, sans-serif;
+
+	margin: 0 auto;
+	margin-top:10%;
+	padding: 5em;
+	background-color: #333;
+	width: 600px;
+	
+	border: solid 3px #F00;
+	border-radius: 30px;
+	
+	-webkit-box-shadow: 0px 0px 7px 2px #F00;
+	-moz-box-shadow: 0px 0px 7px 2px #F00;
+	box-shadow: 0px 0px 7px 2px #F00; 
+}
+
+.stuff {
+	text-align: center;
+	border: solid 2px #000;
+	border-radius: 20px;
+	padding: 1em;
+	
+	background-color: #000;
+	
+	font-size:24px;
+	color: #FFF;
+	
+	-webkit-box-shadow: 0px 0px 7px 2px #F00;
+	-moz-box-shadow: 0px 0px 7px 2px #F00;
+	box-shadow: 0px 0px 7px 2px #F00; 
+}
+
+h1 {
+	font-size:36px;
+	text-align: center;
+	border: solid 2px #000;
+	border-radius: 20px;
+	padding: 1em;
+	
+	background-color: #000;
+	
+	color: #FFF;
+	
+	-webkit-box-shadow: 0px 0px 7px 2px #F00;
+	-moz-box-shadow: 0px 0px 7px 2px #F00;
+	box-shadow: 0px 0px 7px 2px #F00; 
+}
